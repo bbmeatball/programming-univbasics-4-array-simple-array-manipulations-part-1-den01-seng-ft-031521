@@ -15,3 +15,7 @@ small_dogs=["Chihuahua","Shiba Inu"]
 p small_dogs
 end
 
+def using_shift (array)
+  
+  
+end
