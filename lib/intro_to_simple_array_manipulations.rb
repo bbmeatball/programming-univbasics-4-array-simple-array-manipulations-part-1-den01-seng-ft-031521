@@ -21,3 +21,7 @@ def using_shift (array)
  p im_so_over_this_city
  array.shift
 end
+
+def shift_with_args(array)
+  
+end
