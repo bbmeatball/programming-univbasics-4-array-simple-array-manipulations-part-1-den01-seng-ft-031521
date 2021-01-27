@@ -8,7 +8,5 @@ def using_pop (array)
   array.pop
 end
 def pop_with_args (array)
- pop_array= array.pop 
- pop_array=array.pop
-  p pop_array
+
 end
