@@ -12,6 +12,6 @@ dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
 shiba_inu=dog_breeds.pop
 #p shiba_inu
 chihuawa_dog=dog_breeds.pop
-p dog_breeds
+p small_dogs
 end
 
